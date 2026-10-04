@@ -1,0 +1,19 @@
+🌍 Dashboard de Análisis Demográfico e Indicadores Mundiales con Power BI 📊
+
+Hola a Todos! Comparto otro de los Proyectos que hice en Power BI, he creado un dashboard interactivo para analizar datos demográficos, sociales y de salud pública a escala global (cubriendo una población de más de 7.400 millones de personas).
+Este dashboard permite explora de manera detallada cómo se distribuye la población en los diferentes continentes y analizar la relación entre indicadores como la esperanza de vida y la mortalidad infantil.
+
+🔹 Características Principales:
+
+Mapa Interactivo Global (Población y Salud por Región): Un mapa dinámico que ubica visualmente mediante burbujas la concentración poblacional y los indicadores de salud en cada país y continente, facilitando el análisis geográfico.
+
+Gráfico Treemap (Suma de Población por País): Un gráfico de rectángulos que permite comparar visualmente la escala demográfica de los países, destacando rápidamente a las naciones con mayor densidad poblacional como China e India.
+
+Gráfico de Dispersión (Esperanza de Vida vs. Mortalidad Infantil): Un gráfico de dispersión (Scatter Plot) que relaciona la esperanza de vida promedio (eje Y) con la tasa de mortalidad infantil por cada 1.000 niños (eje X), agrupado por continentes para detectar brechas de desarrollo.
+
+Cuadros de Detalles y Tablas Resumen: Tablas organizadas en la parte inferior e izquierda que muestran los valores consolidados de población global, promedios de esperanza de vida y tasas de mortalidad desglosados por continente y país.
+
+Segmentadores Interactivos Avanzados: En la parte superior, los segmentadores permiten filtrar dinámicamente la información según múltiples parámetros: continente, rangos de volumen poblacional (0-1M, 10M+, etc.), intervalos de esperanza de vida y niveles de mortalidad infantil.
+
+🔹 ¿Por qué es útil?
+Este dashboard es una herramienta analítica potente para organismos internacionales, ONGs e investigadores del sector social y de salud pública, ya que permite identificar disparidades regionales, evaluar la calidad de vida global y detectar patrones socioeconómicos. Con esta información, los analistas pueden priorizar recursos y diseñar estrategias basadas en datos para el desarrollo humano.
